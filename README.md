@@ -35,5 +35,27 @@ This is a cross-platform desktop application for managing a list of tasks. It al
  
  Why i used the react.js cause we had elective frontend and we completed React.js
 
+- **What was done**
+ - 1 -> Интерфейс пользователя (основная часть 
+ - 2 -> Добавление задач (основная часть + бонусная часть)
+ - 3 -> Удаление задач (основная часть + бонусная часть)
+ - 4 -> Изменение статуса задач (основная часть + бонусная часть)
+ - 5 -> Сохранение состояния db-> postgresql
+- **Start page**
+![изображение](https://github.com/user-attachments/assets/cc48c32d-7a17-43ca-a624-8c5cd4057ca8)
+- **Task**
+![изображение](https://github.com/user-attachments/assets/0137bdce-bf39-429e-b894-1efcbe2b02ab)
+- **Edit**
+![изображение](https://github.com/user-attachments/assets/6727aa9a-8ea6-43fc-be2c-cf5a7dcdc996)
+![изображение](https://github.com/user-attachments/assets/9ee9e394-6030-4600-a358-ea55f8fa9581)
+- **Tasks that have been done**
+![изображение](https://github.com/user-attachments/assets/22c0f060-412e-4741-8116-23b7863f0a86)
+- **Delete**
+![изображение](https://github.com/user-attachments/assets/1e382d28-c2ef-44fb-8359-cc730fd5810d)
+![изображение](https://github.com/user-attachments/assets/86dc9c9c-4c63-4b75-be4b-d4fef70781de)
+
+
+
+
 
 
